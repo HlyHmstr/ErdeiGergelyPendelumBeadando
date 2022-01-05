@@ -1,0 +1,79 @@
+[albums]
+eds1;Ed Sheeran;Plus;2011-11-09
+eds2;Ed Sheeran;Multiply;2014-06-23
+eds3;Ed Sheeran;Divide;2017-03-03
+eds4;Ed Sheeran;No.6 Collaborations Project;2019-07-12
+eds5;Ed Sheeran;Equals;2021-10-29
+[tracks]
+The A Team;4:18;eds1;UAWcs5H-qgQ
+Drunk;3:20;eds1;bWkQjYH6vmM
+U.N.I;3:48;eds1;0XcWIvrCcIM
+Grade 8;2:59;eds1;yJwBGLnJbLI
+Wake Me Up;3:49;eds1;dMrXw6tc14k
+Small Bump;4:19;eds1;A_af256mnTE
+This;3:15;eds1;EaDftAZfP-4
+The City;3:54;eds1;FegMULaLR4c
+Lego House;3:05;eds1;c4BLVznuWnU
+You Need Me, I Don't Need You;3:40;eds1;ZXvzzTICvJs
+Kiss Me;4:40;eds1;bWkQjYH6vmM
+Give Me Love;4:23;eds1;FOjdXSrtUxA
+One;4:12;eds2;JGyuMGK0yXk
+I'm a Mess;4:04;eds2;18Utw334no8
+Sing;3:55;eds2;tlYcUqEPN58;
+Don't;3:39;eds2;iD2rhdFRehU
+Nina;3:45;eds2;omQ7l4EjJu8
+Photograph;4:19;eds2;nSDgHBxUbVQ
+Bloodstream;5:00;eds2;XIJHg1XWR7o
+Tenerife Sea;4:01;eds2;4rg6puSP9ks
+Runaway;3:25;eds2;zfWiseeZ-M8
+The Man;4:10;eds2;i2e3bAdPGAo
+Thinking Out Loud;4:41;eds2;lp-EO5I60KA
+Afire Love;5:14;eds2;JznXx1Ns374
+Take It Back;3:26;eds2;b6yKt9P03b4
+Shirtsleeves;3:10;eds2;xhI4w2GDXOI
+Even My Dad Does Sometimes;3:48;eds2;0IeQIl2xero
+Eraser;3:47;eds3;OjGrcJ4lZCc
+Castle on the Hill;4:21;eds3;K0ibBPhiaG0
+Dive;3:58;eds3;Wv2rLZmbPMA
+Shape of You;3:53;eds3;JGwWNGJdvx
+Perfect;4:23;eds3;2Vv-BfVoq4g
+Galway Girl;2:50;eds3;87gWaABqGYs
+Happier;3:27;eds3;iWZmdoY1aTE
+New Man;3:09;eds3;EwzD8U4u76k
+Hearts Don't Break Around Here;4:08;eds3;20pAJPNaAyw
+What Do I Know?;3:57;eds3;6B9J3lEyffA
+How Would You Feel (Paean);4:40;eds3;ZZMZiBCRX4c
+Supermarket Flowers;3:41;eds3;bIB8EWqCPrQ
+Barcelona;3:11;eds3;OVO4LhrOFiY
+Bibia Be Ye Ye;2:56;eds3;7t3Re2VIbHE
+Nancy Mulligan;2:59;eds3;VFlZXlfda6Y
+Save Myself;4:07;eds3;qXM0JdAwabU
+Beautiful People;3:17;eds4;mj0XInqZMHY
+South of the Border;3:24;eds4;UPOT2tgY9QQ
+Cross Me;3:26;eds4;S5n9emOr7SQ
+Take Me Back to London;3:09;eds4;ehQcuKhO5n0
+Best Part of Me;4:03;eds4;U1_0b7CkucA
+I Don't Care;3:39;eds4;y83x7MgzWOA
+Antisocial;2:41;eds4;CfkxLRuSteI
+Remember the Name;3:27;eds4;ZX3B953Rc0I
+Feels;2:30;eds4;VMgSLUEbA8Y
+Put It All on Me;3:17;eds4;ryJgDL9jzKk
+Nothing on You;3:20;eds4;IOOcbIyoW_0
+I Don't Want Your Money;3:24;eds4;qDwqqFQ7dcU
+1000 Nights;3:32;eds4;Vbdxi9VU4_M
+Way to Break My Heart;3:10;eds4;maLJbH4KyVU
+Blow;3:29;eds4;s93NCuXt7x4
+Tides;3:15;eds5;P_kRTqaD8Mc
+Shivers;3:27;eds5;Il0S8BoucSA
+First Times;3:05;eds5;y6oryBG8xeQ
+Bad Habits;3:51;eds5;orJSJGHjBLI
+Overpass Graffiti;3:56;eds5;k6ZoE4RrcDs
+The Joker and the Queen;3:05;eds5;m9f4XtNj1Vg
+Leave Your Life;3:43;eds5;gbcGk-xYG_M
+Collide;3:30;eds5;Ykq2qn1jjGk
+2step;2:33;eds5;3d6IKK7tmXY
+Stop the Rain;3:23;eds5;JATT-mgGiPQ
+Love in Slow Motion;3:10;eds5;wQpU_v2cH_w
+Visiting Hours;3:35;eds5;pVqX2u6YWqI
+Sandman;4:19;eds5;lagKeiqYKz8
+Be Right Now;3:31;eds5;mqjoCX4OU0w

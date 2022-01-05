@@ -1,0 +1,8 @@
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\bin\Debug\PendelumConsoleApp.exe.config
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\bin\Debug\PendelumConsoleApp.exe
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\bin\Debug\PendelumConsoleApp.pdb
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\obj\Debug\PendelumConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\obj\Debug\PendelumConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\obj\Debug\PendelumConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\obj\Debug\PendelumConsoleApp.exe
+C:\Users\gergo\source\repos\PendelumConsoleApp\PendelumConsoleApp\obj\Debug\PendelumConsoleApp.pdb
