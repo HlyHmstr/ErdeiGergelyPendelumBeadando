@@ -1,0 +1,11 @@
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\bin\Debug\PendelumWinForm.exe.config
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\bin\Debug\PendelumWinForm.exe
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\bin\Debug\PendelumWinForm.pdb
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.csproj.AssemblyReference.cache
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.Form1.resources
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.Properties.Resources.resources
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.csproj.GenerateResource.cache
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.csproj.CoreCompileInputs.cache
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.exe
+C:\Users\gergo\source\repos\PendelumWinForm\PendelumWinForm\obj\Debug\PendelumWinForm.pdb
